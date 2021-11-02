@@ -5,10 +5,10 @@ const DataTable = () => {
                 <thead>
                     <tr>
                         <th>Data</th>
-                        <th>Vendedor</th>
-                        <th>Clientes visitados</th>
-                        <th>Negócios fechados</th>
-                        <th>Valor</th>
+                        <th>Salesman</th>
+                        <th>Customer visited</th>
+                        <th>Closed deals</th>
+                        <th>Value</th>
                     </tr>
                 </thead>
                 <tbody>
